@@ -1,0 +1,47 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Science Engineer
+# your company information
+company:
+  name: Kam Company GmbH
+  url: "https://kam-company.de/fr/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Learning is a life-time process and learning more about Artificial Intelligence only pushes me to contribute and project my vision into real-life problems. What I enjoy most is using the data to answer many queries and find answers. Even through it is challenging, I take so much pleasure in seeking the best solution. I also love reading and this keeps me updated and keeps my vision sharp.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/NermineAli1995"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/nermine-ali/"
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: pink
+- name: Public Speaking
+  percentage: 90
+  color: yellow
+- name: Problem Solving
+  percentage: 90
+  color: sky
