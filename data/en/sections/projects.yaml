@@ -21,7 +21,7 @@ buttons:
 # your projects
 projects:
 - name: Semantic search engine
-  logo: 
+  logo: images/sections/projects/globe.png
   role: Owner
   timeline: ""
   repo: https://github.com/NermineAli1995/TextAnalysis # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -30,7 +30,7 @@ projects:
   tags: ["NLP", "Ner", "Python","Flask"]
 
 - name: Retweet & Like Twitter Bot
-  logo: sections/projects/twitter.png
+  logo: images/sections/projects/twitter.png
   role: Owner
   timeline: ""
   repo: https://github.com/NermineAli1995/twitter_bot # If your project is a public repo on GitHub, then provide this link. it will show star count.
